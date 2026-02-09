@@ -1,2 +1,1 @@
-# Web-Scraping
-Self-learning Text Mining
+# Self-learning Text Mining
